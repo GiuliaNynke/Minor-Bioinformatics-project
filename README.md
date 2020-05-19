@@ -32,4 +32,8 @@ make test
 # Use Primer 3
 primer3_core input.afa
 
+# Installation Python
+
+# Installation Biopython
+
 

@@ -35,5 +35,6 @@ primer3_core input.afa
 # Installation Python
 
 # Installation Biopython
+pip install biopython
 
 

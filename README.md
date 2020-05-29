@@ -13,7 +13,7 @@ Figure 1. Flowchart of the project.
 
 ![](Images/Flowchart.png)
 
-# Python script [python script](filter_fasta_file.py)
+# Python script [python script](NAME SCRIPT)
 The attached python script was used to run the tools. All tools and actions used are combined in a python script and can therefore be started automatically. In order to use this script and the tool, certain programs must be downloaded. These are described under the chapter Installation. The script itself indicates which part of the script is intended for what. The variables at the top of the script are also indicated separately and can therefore be easily adapted to your wishes.
 
 # Installation 

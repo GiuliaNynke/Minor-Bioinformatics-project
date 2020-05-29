@@ -1,3 +1,6 @@
+* ONE
+* TWO
+
 # Introduction 
 Made by Nynke van Eijk en Giulia Kleijwegt
 Made in May 2020

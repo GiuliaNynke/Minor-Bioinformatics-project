@@ -25,10 +25,12 @@ sudo apt install ncbi-ebtrez-direct
 esearch -db nucleotide -query "txid1335626[Organism]"| efilter -query "complete genome"| efilter -query "27000:35000[Sequence length]| efetch -format fasta > mers_cov.fasta
 
 ###### SUMACLUST
+```
 wget https://git.metabarcoding.org/obitools/sumaclust/uploads/69f757c42f2cd45212c587e87c75a00f/sumaclust_v1.0.20.tar.gz  
 tar -zxvf sumaclust_v1.0.20.tar.gz
 cd sumaclust_v1.0.20
 make
+```
 ###### Usage
 sumaclust -t 0.97 input.fasta > output.fasta
 

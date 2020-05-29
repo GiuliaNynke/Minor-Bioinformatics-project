@@ -10,7 +10,7 @@ The goal of our minor project was to develop primers for the Middle East Respera
 The flowchart can be seen in figure 1. It shows step by step which tools were used to design the primers. The red indicates which steps have not been carried out, but are recommended to be carried out.
 
 Figure 1. Flowchart of the project. 
-!https://github.com/GiuliaNynke/Minor-Bioinformatics-project/blob/master/Flowchart.pdf
+![]()
 
 # Python script
 The attached python script was used to run the tools. All tools and actions used are combined in a python script and can therefore be started automatically. In order to use this script and the tool, certain programs must be downloaded. These are described under the chapter Installation. The script itself indicates which part of the script is intended for what. The variables at the top of the script are also indicated separately and can therefore be easily adapted to your wishes.

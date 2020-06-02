@@ -21,7 +21,7 @@ This describes the installation and use of the tools.
 
 ###### Fetch FASTA files
 ```
-sudo apt install ncbi-ebtrez-direct
+sudo apt install ncbi-entrez-direct
 ```
 ###### Usage 
 ```

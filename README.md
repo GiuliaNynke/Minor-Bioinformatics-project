@@ -1,7 +1,7 @@
 # Introduction 
-Made by Nynke van Eijk en Giulia Kleijwegt
-Made in May 2020
-Title: Primer design for nanopore MinION sequencing of MERS-CoV
+* Made by Nynke van Eijk en Giulia Kleijwegt
+* Made in May 2020
+* Title: Primer design for nanopore MinION sequencing of MERS-CoV
 
 # Goal
 The goal of our minor project was to develop primers for the Middle East Resperatory Syndrome Corona Virus. These primers are designed using bioinformatics.

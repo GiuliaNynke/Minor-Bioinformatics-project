@@ -4,8 +4,8 @@
 import Bio
 from Bio import SeqIO
 inputfile = "MERS_CoV_clustered.fasta"
-outputfile_cluster1 = "MERS_CoV_cluster1_test.fasta"
-outputfile_cluster2 = "MERS_CoV_cluster2_test.fasta"
+outputfile_cluster1 = "MERS_CoV_cluster1.fasta"
+outputfile_cluster2 = "MERS_CoV_cluster2.fasta"
 names = []
 sequences = []
 clusters =[]

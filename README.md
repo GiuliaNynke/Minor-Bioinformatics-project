@@ -72,4 +72,3 @@ pip install biopython
 ```
 import Bio
 ```
-# Location of the files

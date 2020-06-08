@@ -72,3 +72,21 @@ pip install biopython
 ```
 import Bio
 ```
+###### IQ-TREE
+```
+wget https://github.com/Cibiv/IQ-TREE/releases/download/v1.6.12/iqtree-1.6.12-Linux.tar.gz
+tar –zxvf iqtree-1.6.12-Linux.tar.gz
+```
+###### Usage
+```
+bin/iqtree -s input.phy
+```
+###### iTOL
+```
+wget https://anaconda.org/bioconda/itolapi/4.0.0/download/noarch/itolapi-4.0.0-py_0.tar.bz2
+tar -xvjf iolapi-4.0.0-py_0.tar.bz2 
+```
+###### Usage
+```
+itol.py pathway_to_input.tree
+```

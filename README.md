@@ -22,6 +22,8 @@ This describes the installation and use of the tools.
 ###### Fetch FASTA files
 ```
 sudo apt install ncbi-entrez-direct
+<or>
+conda install -c bioconda entrez-direct 
 ```
 ###### Usage 
 ```

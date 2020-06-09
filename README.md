@@ -14,7 +14,7 @@ Figure 1. Flowchart of the project.
 ![](Images/Flowchart.png)
 
 # Python script [complete python script](Python_scripts/Primer_design/bioinformatics_project_full.py)
-The attached python script was used to run the tools. All tools and actions used are combined in a python script and can therefore be started automatically. In order to use this script and the tool, certain programs must be downloaded. These are described under the chapter Installation. The script itself indicates which part of the script is intended for what. The variables at the top of the script are also indicated separately and can therefore be easily adapted to your wishes.
+The attached python script was used to run the tools. All tools and actions used are combined in a python script and can therefore be started automatically. In order to use this script and the tools, certain programs must be downloaded. These are described under the chapter Installation. The script itself indicates which part of the script is intended for what. The variables at the top of the script are also indicated separately and can therefore be easily adapted to your wishes.
 
 # Installation 
 This describes the installation and use of the tools.

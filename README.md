@@ -4,7 +4,7 @@
 * Title project: Primer design for nanopore MinION sequencing of MERS-CoV
 
 # Goal
-The goal of our minor project was to develop primers for the Middle East Resperatory Syndrome Corona Virus. These primers are designed using bioinformatics.
+This study was initiated in order to investigate the generation of primers for amplicon-based whole genome sequencing of MERS-CoV. 
 
 # Flowchart
 The flowchart can be seen in figure 1. It shows step by step which tools were used to design the primers. The red indicates which steps have not been carried out, but are recommended to be carried out.
